@@ -272,11 +272,12 @@ iframe {
 #upcoming-copy {
   position: absolute;
   z-index: 10;
-  top: 62px;
-  font-size: 30px;
+  top: 642px;
+  font-size: 35px;
   padding: 25px;
   width: 680px;
-  left: 100px;
+  right: 100px;
+  pointer-events: none;
   color: white; }
 
 #contact {
